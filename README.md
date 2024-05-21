@@ -1,6 +1,6 @@
 # datascience_projects
 
-This folder contains projects I have developed withing the Data Science field.
+This folder contains projects I have developed within the Data Science field.
 
 ## Folders:
 - Programming_DataScience : Dashboard developed using Dash to preview Accommodations and filter them accordingly.
